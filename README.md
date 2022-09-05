@@ -1,1 +1,1 @@
-Introduction to Shell basics
+A script that prints Hello, World
